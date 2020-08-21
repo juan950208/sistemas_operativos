@@ -1,1 +1,1 @@
-repositorio para el curso Sistemas Operativos.
+repositorio para el curso de Sistemas Operativos.
